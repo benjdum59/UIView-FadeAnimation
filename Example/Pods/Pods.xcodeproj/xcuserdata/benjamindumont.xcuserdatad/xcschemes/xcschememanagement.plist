@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-UIViewFadeAnimationExtension_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-UIViewFadeAnimationExtension_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIViewFadeAnimationExtension-UIViewFadeAnimationExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIViewFadeAnimationExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B80FD67695067C5D0A7E3F7F18973CC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BFD2198BB5E1E8A50D1F001649EF6DC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>830CDCC1128A8FC8339F549776C6DFA9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F8126922A15A7665B8702BEE43471931</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
