@@ -1,0 +1,6 @@
+framework module UIViewFadeAnimationExtension {
+  umbrella header "UIViewFadeAnimationExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
