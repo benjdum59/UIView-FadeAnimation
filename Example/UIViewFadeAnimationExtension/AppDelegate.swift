@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  UIViewFadeAnimationExtension
 //
-//  Created by benjamindum on 02/15/2016.
-//  Copyright (c) 2016 benjamindum. All rights reserved.
+//  Created by benjdum59 on 02/15/2016.
+//  Copyright (c) 2016 benjdum59. All rights reserved.
 //
 
 import UIKit

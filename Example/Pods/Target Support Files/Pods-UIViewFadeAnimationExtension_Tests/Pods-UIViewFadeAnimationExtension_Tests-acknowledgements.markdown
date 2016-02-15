@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## UIViewFadeAnimationExtension
 
-Copyright (c) 2016 benjamindum <benjamin.dumont@ineat-conseil.fr>
+Copyright (c) 2016 benjdum59 <benjdum59@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
