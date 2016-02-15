@@ -1,6 +1,6 @@
 # UIViewFadeAnimationExtension
 
-[![CI Status](http://img.shields.io/travis/benjamindum/UIViewFadeAnimationExtension.svg?style=flat)](https://travis-ci.org/benjamindum/UIViewFadeAnimationExtension)
+[![CI Status](http://img.shields.io/travis/benjamindum/UIViewFade-AnimationExtension.svg?style=flat)](https://travis-ci.org/benjamindum/UIViewFadeAnimationExtension)
 [![Version](https://img.shields.io/cocoapods/v/UIViewFadeAnimationExtension.svg?style=flat)](http://cocoapods.org/pods/UIViewFadeAnimationExtension)
 [![License](https://img.shields.io/cocoapods/l/UIViewFadeAnimationExtension.svg?style=flat)](http://cocoapods.org/pods/UIViewFadeAnimationExtension)
 [![Platform](https://img.shields.io/cocoapods/p/UIViewFadeAnimationExtension.svg?style=flat)](http://cocoapods.org/pods/UIViewFadeAnimationExtension)
