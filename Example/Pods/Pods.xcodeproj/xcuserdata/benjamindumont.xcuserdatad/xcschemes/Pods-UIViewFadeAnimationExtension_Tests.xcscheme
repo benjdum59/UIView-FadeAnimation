@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'FDD541FBCDCFEE258A02DDC2'
+               BlueprintIdentifier = 'BFC9EFA65042F2897D039C68'
                BlueprintName = 'Pods-UIViewFadeAnimationExtension_Tests'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'Pods_UIViewFadeAnimationExtension_Tests.framework'>
