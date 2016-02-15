@@ -1,6 +1,0 @@
-framework module Pods_UIViewFadeAnimationExtension_Tests {
-  umbrella header "Pods-UIViewFadeAnimationExtension_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
